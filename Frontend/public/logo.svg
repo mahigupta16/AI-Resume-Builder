@@ -1,0 +1,30 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="100" fill="#2D0A5B"/>
+  
+  <!-- Neural Network Connections -->
+  <path d="M100 40 L60 80" stroke="#8A4FFF" stroke-width="3"/>
+  <path d="M100 40 L140 80" stroke="#8A4FFF" stroke-width="3"/>
+  <path d="M60 80 L40 120" stroke="#8A4FFF" stroke-width="3"/>
+  <path d="M60 80 L100 120" stroke="#8A4FFF" stroke-width="3"/>
+  <path d="M140 80 L100 120" stroke="#8A4FFF" stroke-width="3"/>
+  <path d="M140 80 L160 120" stroke="#8A4FFF" stroke-width="3"/>
+  <path d="M40 120 L60 160" stroke="#8A4FFF" stroke-width="3"/>
+  <path d="M100 120 L60 160" stroke="#8A4FFF" stroke-width="3"/>
+  <path d="M100 120 L140 160" stroke="#8A4FFF" stroke-width="3"/>
+  <path d="M160 120 L140 160" stroke="#8A4FFF" stroke-width="3"/>
+  
+  <!-- Neural Network Nodes -->
+  <circle cx="100" cy="40" r="10" fill="#FF4D8F"/>
+  <circle cx="60" cy="80" r="10" fill="#FF4D8F"/>
+  <circle cx="140" cy="80" r="10" fill="#FF4D8F"/>
+  <circle cx="40" cy="120" r="10" fill="#20D9D2"/>
+  <circle cx="100" cy="120" r="10" fill="#FF4D8F"/>
+  <circle cx="160" cy="120" r="10" fill="#20D9D2"/>
+  <circle cx="60" cy="160" r="10" fill="#20D9D2"/>
+  <circle cx="140" cy="160" r="10" fill="#20D9D2"/>
+  
+  <!-- Center Circle with Text -->
+  <circle cx="100" cy="100" r="25" fill="#FF4D8F"/>
+  <text x="100" y="110" font-family="Arial" font-size="30" font-weight="bold" fill="white" text-anchor="middle">A</text>
+</svg>
